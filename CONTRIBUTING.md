@@ -1,51 +1,29 @@
 # Contributing to Helen-Keller-OER-For-Visually-Impaired
 
-Thank you for your interest in contributing to the Helen-Keller-OER-For-Visually-Impaired project! We welcome contributions that help create accessible and inclusive educational resources for visually impaired students. Here are some guidelines to help you get started:
+Thank you for your interest in contributing!
 
-## How to Contribute
+## How to Contribute Suggestions
+- Go to the [Issues](../../issues) tab and click on "New issue".
+- Title your issue with a brief description of your suggestion.
+- Provide detailed information in the body of the issue, including any relevant links or resources.
+- Use the labels to categorize your suggestion (e.g., "New Module", "Update", "Accessibility", etc.).
 
-1. **Fork the Repository**
-   - Fork the repository to your own GitHub account.
+## Feedback and Voting
+- Browse the [Issues](../../issues) tab to see existing suggestions.
+- Use the reactions (thumbs up 👍 or thumbs down 👎) to vote on suggestions.
+- We will review and prioritize suggestions based on community feedback within our specified timeframe.
 
-2. **Clone Your Fork**
-   - Clone your fork to your local machine using `git clone <your-fork-url>`.
+## Additional Contributions
+- If you would like to contribute in other ways (e.g., content creation, accessibility improvements), please open an issue to discuss your ideas.
 
-3. **Create a New Branch**
-   - Create a new branch for your contribution using `git checkout -b your-branch-name`.
+## Our Mission
 
-4. **Make Your Changes**
-   - Make your changes, additions, or improvements to the code or content.
+This project aims to create awareness about the educational needs of visually impaired students and to promote inclusivity. The top suggestions will be segregated as an open educational resource and will hopefully be recommended to schools, the Department of Education, and the Commission on Higher Education.
 
-5. **Commit Your Changes**
-   - Commit your changes with a clear and descriptive commit message.
+## Dynamic Annual Curriculum
 
-6. **Push Your Changes**
-   - Push your changes to your forked repository using `git push origin your-branch-name`.
+Our aim is to have a dynamic annual curriculum that will change based on the perceived needs of the students and trends from the past year. Your contributions and votes are vital in shaping this evolving curriculum.
 
-7. **Submit a Pull Request**
-   - Submit a pull request to the main repository. Please provide a detailed description of your changes and the problem they solve.
+Thank you for your contributions!
 
-## Guidelines for Contributions
-
-1. **Focus on Accessibility**
-   - All contributions should consider the needs of visually impaired students. Ensure that materials are accessible, including Braille, audio, or enlarged print formats.
-
-2. **Suggest Teaching Methods**
-   - When suggesting new content or improvements, please also suggest effective teaching methods that can be used to deliver the material to visually impaired students.
-
-3. **Be Clear and Descriptive**
-   - Use clear and descriptive language in your contributions to ensure that the content is easily understandable.
-
-4. **Follow the GPL 2.0 License**
-   - By contributing, you agree that your contributions will be licensed under the GPL 2.0 License. Ensure that your contributions comply with the terms of this license.
-
-5. **Testing and Validation**
-   - If your contribution involves code, please ensure it is thoroughly tested and validated.
-
-## Community and Code of Conduct
-
-We are committed to fostering a welcoming and inclusive community. Please read and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a positive experience for all contributors.
-
-Thank you for your contributions and helping to make education more accessible and inclusive for visually impaired students!
-
-The Helen Keller OER For Visually Impaired Students Initiative
+DPBJr.
